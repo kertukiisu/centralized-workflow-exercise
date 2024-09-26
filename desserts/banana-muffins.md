@@ -3,7 +3,7 @@
 # Ingredients
 bananas
 muffin powder
-oil
+rapeseed oil
 water
 
 # Instructions
